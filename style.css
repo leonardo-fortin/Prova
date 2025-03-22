@@ -5,3 +5,7 @@ body{
 #titolo{
     color: brown;
 }
+
+p{
+    font-size: large;
+}
